@@ -1,0 +1,1 @@
+This is a simple project where I created a website to display different recipes from the Internet. This project uses my new skills about setting up a basic website using boilerplate, head, body, links, and images.
