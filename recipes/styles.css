@@ -2,11 +2,21 @@
     font-family: "Roboto", "Arial", sans-serif;
   }
 
-.header {
-    color: black;
+.header-container {
+    width: 700px;
     background-color: rgb(180, 240, 240);
     text-align: center;
+    margin: 25px auto;
+}
+.header {
+    color: black;
     font-size: 45px;
+}
+
+.small-heading-container {
+    width: 700px;
+    background-color: bisque;
+    margin: 20px auto;
 }
 
 .small-heading {
@@ -21,8 +31,17 @@
     text-align: center;
 }
 
+.container {
+    width: 400px;
+    background: rgb(180, 240, 240);
+    margin: 25px auto;
+    padding: 10px;
+    text-align: center;
+}
+
 .homepage-list {
     font-size: 20px;
-    display: table;
-    margin: auto;
+    display: inline-block;
+    text-align: left;
+    padding-left: 10px;
 }
