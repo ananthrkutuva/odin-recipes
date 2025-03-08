@@ -35,14 +35,11 @@
     width: 400px;
     background: rgb(180, 240, 240);
     margin: 25px auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 }
 
 .homepage-list {
     font-size: 20px;
-    /* display: inline-block;
+    display: inline-block;
     text-align: left;
-    margin-right: 18px; */
 }
