@@ -23,8 +23,23 @@
     font-size: 30px;
 }
 
+.recipe-header-container {
+    width: 350px;
+    background: lightpink;
+    margin: 25px auto;
+    text-align: center;
+}
+
+.recipe-list-container {
+    text-align: center;
+    margin: 25px auto;
+    width: 700px;
+    background-color: bisque;
+}
+
 .list {
     font-size: 20px;
+    text-align: center;
 }
 
 .center {
@@ -42,11 +57,4 @@
     font-size: 20px;
     display: inline-block;
     text-align: left;
-}
-
-.recipe-header-container {
-    width: 350px;
-    background: lightpink;
-    margin: 25px auto;
-    text-align: center;
 }
